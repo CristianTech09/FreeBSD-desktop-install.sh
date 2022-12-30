@@ -3,4 +3,6 @@
 
 ### Testato su hardware reale ✅
 
+#### ovviamente questo script configurerà solo le funzioni base, le configurazioni di altre periferiche / funzionalità andrà fatta manualmente
+
 #### PS: in macchina virtuale può dare problemi con il server grafico Xorg
